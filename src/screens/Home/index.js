@@ -1,5 +1,3 @@
-
-import {Text} from 'react-native';
 import React from 'react';
 
 import { MaterialCommunityIcons, AntDesign } from '@expo/vector-icons';
